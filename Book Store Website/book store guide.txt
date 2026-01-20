@@ -1,0 +1,14 @@
+1- chrome
+127.0.0.1/dashboard/ enter
+
+then goto php my admin
+
+2-shop_db
+
+3-localhost/project[folder name]
+
+4-xampp sql error -   1-run :services.msc
+                      2-MYSQL80
+                      3-stop
+                      4-ok 
+                      5-again start
